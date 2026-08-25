@@ -1,0 +1,202 @@
+{
+  "pages": [
+    {
+      "index": 0,
+      "markdown": "# Refractories Handbook\n\nedited by\n\nCharles A. Schacht",
+      "images": [],
+      "tables": [],
+      "hyperlinks": [],
+      "header": null,
+      "footer": null,
+      "dimensions": {
+        "dpi": 72,
+        "height": 1013,
+        "width": 661
+      },
+      "confidence_scores": {
+        "word_confidence_scores": [],
+        "average_page_confidence_score": 0.944535677508526,
+        "minimum_page_confidence_score": 0.2609955131515223
+      },
+      "blocks": null
+    },
+    {
+      "index": 1,
+      "markdown": "# Refractories Handbook",
+      "images": [],
+      "tables": [],
+      "hyperlinks": [],
+      "header": null,
+      "footer": null,
+      "dimensions": {
+        "dpi": 104,
+        "height": 1023,
+        "width": 598
+      },
+      "confidence_scores": {
+        "word_confidence_scores": [],
+        "average_page_confidence_score": 0.9280487759721731,
+        "minimum_page_confidence_score": 0.18109393582003697
+      },
+      "blocks": null
+    },
+    {
+      "index": 2,
+      "markdown": "# **MECHANICAL ENGINEERING**\nA Series of Textbooks and Reference Books\n\n*Founding Editor*\n\n**L. L. Faulkner**\n\n*Columbus Division, Battelle Memorial Institute\nand Department of Mechanical Engineering\nThe Ohio State University\nColumbus, Ohio*\n\n1. *Spring Designer's Handbook*, Harold Carlson\n2. *Computer-Aided Graphics and Design*, Daniel L. Ryan\n3. *Lubrication Fundamentals*, J. George Wills\n4. *Solar Engineering for Domestic Buildings*, William A. Himmelman\n5. *Applied Engineering Mechanics: Statics and Dynamics*, G. Boothroyd and C. Poli\n6. *Centrifugal Pump Clinic*, Igor J. Karassik\n7. *Computer-Aided Kinetics for Machine Design*, Daniel L. Ryan\n8. *Plastics Products Design Handbook, Part A: Materials and Components; Part B: Processes and Design for Processes*, edited by Edward Miller\n9. *Turbomachinery: Basic Theory and Applications*, Earl Logan, Jr.\n10. *Vibrations of Shells and Plates*, Werner Soedel\n11. *Flat and Corrugated Diaphragm Design Handbook*, Mario Di Giovanni\n12. *Practical Stress Analysis in Engineering Design*, Alexander Blake\n13. *An Introduction to the Design and Behavior of Bolted Joints*, John H. Bickford\n14. *Optimal Engineering Design: Principles and Applications*, James N. Siddall\n15. *Spring Manufacturing Handbook*, Harold Carlson\n16. *Industrial Noise Control: Fundamentals and Applications*, edited by Lewis H. Bell\n17. *Gears and Their Vibration: A Basic Approach to Understanding Gear Noise*, J. Derek Smith\n18. *Chains for Power Transmission and Material Handling: Design and Applications Handbook*, American Chain Association\n19. *Corrosion and Corrosion Protection Handbook*, edited by Philip A. Schweitzer\n20. *Gear Drive Systems: Design and Application*, Peter Lynwander\n21. *Controlling In-Plant Airborne Contaminants: Systems Design and Calculations*, John D. Constance\n22. *CAD/CAM Systems Planning and Implementation*, Charles S. Knox\n23. *Probabilistic Engineering Design: Principles and Applications*, James N. Siddall\n24. *Traction Drives: Selection and Application*, Frederick W. Heilich III and Eugene E. Shube\n25. *Finite Element Methods: An Introduction*, Ronald L. Huston and Chris E. Passerello\n26. *Mechanical Fastening of Plastics: An Engineering Handbook*, Brayton Lincoln, Kenneth J. Gomes, and James F. Braden\n27. *Lubrication in Practice: Second Edition*, edited by W. S. Robertson\n28. *Principles of Automated Drafting*, Daniel L. Ryan\n29. *Practical Seal Design*, edited by Leonard J. Martini\n30. *Engineering Documentation for CAD/CAM Applications*, Charles S. Knox",
+      "images": [],
+      "tables": [],
+      "hyperlinks": [],
+      "header": null,
+      "footer": null,
+      "dimensions": {
+        "dpi": 104,
+        "height": 1023,
+        "width": 598
+      },
+      "confidence_scores": {
+        "word_confidence_scores": [],
+        "average_page_confidence_score": 0.9880965948490921,
+        "minimum_page_confidence_score": 0.29561673783929093
+      },
+      "blocks": null
+    },
+    {
+      "index": 3,
+      "markdown": "# Refractories Handbook\n\n*edited by*\n\n**Charles A. Schacht**\n\n*Schacht Consulting Services Pittsburgh, Pennsylvania, U.S.A*\n\n![img-0.jpeg](img-0.jpeg)\n\nMARCEL DEKKER, INC.\n\nNEW YORK • BASEL",
+      "images": [
+        {
+          "id": "img-0.jpeg",
+          "top_left_x": 72,
+          "top_left_y": 877,
+          "bottom_right_x": 141,
+          "bottom_right_y": 946,
+          "image_base64": null,
+          "image_annotation": null
+        }
+      ],
+      "tables": [],
+      "hyperlinks": [],
+      "header": null,
+      "footer": null,
+      "dimensions": {
+        "dpi": 104,
+        "height": 1023,
+        "width": 598
+      },
+      "confidence_scores": {
+        "word_confidence_scores": [],
+        "average_page_confidence_score": 0.9444526035847304,
+        "minimum_page_confidence_score": 0.1879220303881373
+      },
+      "blocks": null
+    },
+    {
+      "index": 4,
+      "markdown": "Although great care has been taken to provide accurate and current information, neither the author(s) nor the publisher, nor anyone else associated with this publication, shall be liable for any loss, damage, or liability directly or indirectly caused or alleged to be caused by this book. The material contained herein is not intended to provide specific advice or recommendations for any specific situation.\n\nTrademark notice: Product or corporate names may be trademarks or registered trademarks and are used only for identification and explanation without intent to infringe.\n\n# **Library of Congress Cataloging-in-Publication Data**\n\nA catalog record for this book is available from the Library of Congress.\n\n**ISBN: 0-8247-5654-1**\n\nThis book is printed on acid-free paper.\n\n# **Headquarters**\n\nMarcel Dekker, Inc., 270 Madison Avenue, New York, NY 10016, U.S.A.\ntel: 212-696-9000; fax: 212-685-4540\n\n# **Distribution and Customer Service**\n\nMarcel Dekker, Inc., Cimarron Road, Monticello, New York 12701, U.S.A.\ntel: 800-228-1160; fax: 845-796-1772\n\n# **Eastern Hemisphere Distribution**\n\nMarcel Dekker AG, Hutgasse 4, Postfach 812, CH-4001 Basel, Switzerland\ntel: 41-61-260-6300; fax: 41-61-260-6333\n\n# **World Wide Web**\n\nhttp://www.dekker.com\n\nThe publisher offers discounts on this book when ordered in bulk quantities. For more information, write to Special Sales/Professional Marketing at the headquarters address above.\n\n**Copyright © 2004 by Marcel Dekker, Inc. All Rights Reserved.**\n\nNeither this book nor any part may be reproduced or transmitted in any form or by any means, electronic or mechanical, including photocopying, microfilming, and recording, or by any information storage and retrieval system, without permission in writing from the publisher.\n\nCurrent printing (last digit):\n\n10 9 8 7 6 5 4 3 2 1\n\n**PRINTED IN THE UNITED STATES OF AMERICA**",
+      "images": [],
+      "tables": [],
+      "hyperlinks": [],
+      "header": null,
+      "footer": null,
+      "dimensions": {
+        "dpi": 116,
+        "height": 1020,
+        "width": 672
+      },
+      "confidence_scores": {
+        "word_confidence_scores": [],
+        "average_page_confidence_score": 0.9806537975997176,
+        "minimum_page_confidence_score": 0.31574229135562276
+      },
+      "blocks": null
+    },
+    {
+      "index": 5,
+      "markdown": "# Preface\n\nThis book was developed to provide a comprehensive source of a broad range of technical aspects of refractories to be used by the refractory manufacturers, refractory material engineers, refractory lining designers, and industrial users of refractories. Basic industry processing materials from the bowels of the earth require high-temperature processing and the use of refractories. Refractories are necessary to insulate and control the process temperature and to minimize heat loss from the process. They are required to insulate the vessel or support structure from the process temperature to prevent overheating and deterioration of the support structure. Without the support or structure, the high-temperature process cannot be contained.\n\nThe first three chapters provide the fundamentals of refractories. Refractories deteriorate from either or both chemical and mechanical effects. The fundamentals of refractory material properties are addressed in Chapter 1. Fracture mechanics or those aspects of the mechanical deterioration of refractories are provided in Chapter 2. Chapter 3, on the corrosion of refractory brick, looks at the chemical deterioration of refractories.\n\nSeveral of the fundamental types of refractory brick are addressed in Chapters 4 through 9. Included here are alumina-silica, magnesite, silica, dolomite, and spinel-containing brick. Because of the high thermal conductivity of carbonaceous refractories described in Chapter 8, carbonaceous refractory linings are basically designed as a cooling system rather than as an insulating system.\n\nCastables continue to gain popularity as a refractory lining system in many of the basic industries. Chapters 10 through 12 are devoted to castables, with each\n\niii",
+      "images": [],
+      "tables": [],
+      "hyperlinks": [],
+      "header": null,
+      "footer": null,
+      "dimensions": {
+        "dpi": 116,
+        "height": 1020,
+        "width": 672
+      },
+      "confidence_scores": {
+        "word_confidence_scores": [],
+        "average_page_confidence_score": 0.9850613784547744,
+        "minimum_page_confidence_score": 0.42870290814315115
+      },
+      "blocks": null
+    },
+    {
+      "index": 6,
+      "markdown": "iv\n\nPreface\n\nchapter discussing different aspects of castables. These three chapters are intended to capture most of the significant factors of castable lining design.\n\nChapter 13 is devoted to the thermomechanical aspects of refractory linings. Although brick refractory lining systems are primarily addressed, nearly all the fundamental concepts of brick lining design can be directly applied to castable lining design. Fundamental considerations include the classification of load types, fundamentals of refractory strength, selecting the best refractory based on static compressive stress–strain data, the fundamentals of cylindrical lining behavior, and fundamentals of expansion allowance.\n\nChapters 14 and 15 give examples of refractory lining systems used in the petrochemical and steel industries, respectively. Both chapters are written by authors with many years of experience in these industries and provide valuable insight in the design of lining systems.\n\nChapter 16 discusses all the various tests that can be conducted on refractories to determine the thermal and mechanical material properties, as well as tests to determine such properties as spalling resistance and other inferential properties. Spalling tests are defined as inferential, because the refractory shape is not subjected to the complete stress–strain operating environment during testing. However, these tests are very valuable in ranking candidate refractory materials.\n\nChapter 17 deals with the installation of refractories. Although there are numerous types of lining system geometries and combinations of refractory materials, this chapter is intended to give an overview of the basic aspects that should be considered in refractory lining installation.\n\n*Charles A. Schacht*",
+      "images": [],
+      "tables": [],
+      "hyperlinks": [],
+      "header": null,
+      "footer": null,
+      "dimensions": {
+        "dpi": 116,
+        "height": 1020,
+        "width": 672
+      },
+      "confidence_scores": {
+        "word_confidence_scores": [],
+        "average_page_confidence_score": 0.9883352116657796,
+        "minimum_page_confidence_score": 0.44997221577701557
+      },
+      "blocks": null
+    },
+    {
+      "index": 7,
+      "markdown": "# Contents\n\n[tbl-0.md](tbl-0.md)\n\nv",
+      "images": [],
+      "tables": [
+        {
+          "id": "tbl-0.md",
+          "content": "|  *Preface* | *iii*  |\n| --- | --- |\n|  *Contributors* | *xi*  |\n|  1. Properties of Refractories *Subrata Banerjee* | 1  |\n|  2. Fracture of Refractories *Richard C. Bradt* | 11  |\n|  3. Corrosion of Refractories *Denis A. Brosnan* | 39  |\n|  4. Alumina-Silica Brick *Denis A. Brosnan* | 79  |\n|  5. Magnesia Refractories *Richard A. Landy* | 109  |\n|  6. Silica Brick Material Properties *Charles A. Schacht and James C. Hays* | 151  |\n|  7. Doloma Refractories *Colin Richmond* | 183  |",
+          "format": "markdown",
+          "word_confidence_scores": null
+        }
+      ],
+      "hyperlinks": [],
+      "header": null,
+      "footer": null,
+      "dimensions": {
+        "dpi": 116,
+        "height": 1020,
+        "width": 672
+      },
+      "confidence_scores": {
+        "word_confidence_scores": [],
+        "average_page_confidence_score": 0.9860983781254324,
+        "minimum_page_confidence_score": 0.41122338033885675
+      },
+      "blocks": null
+    }
+  ],
+  "model": "mistral-ocr-latest",
+  "document_annotation": "{\"title\": \"Refractories Handbook\", \"authors\": [\"Charles A. Schacht\"], \"venue_or_publisher\": \"Marcel Dekker, Inc.\", \"document_type\": \"book\", \"year\": 2004, \"pages\": \"400\", \"doi\": null, \"abstract\": null, \"note\": \"ISBN: 0-8247-5654-1. Edited by Charles A. Schacht.\"}",
+  "usage_info": {
+    "pages_processed": 8,
+    "doc_size_bytes": 311119
+  },
+  "_batch_source": {
+    "source_file": "Refractories Handbook (Mechanical Engineering (Marcell -- edited by Charles A_ Schacht -- Mechanical Engineering Marcell Dekker, 1, 2004 -- CRC Press e.pdf",
+    "source_total_pages": 517,
+    "metadata_pages_processed": 8,
+    "source_page_indexes": [
+      0,
+      1,
+      2,
+      8,
+      9,
+      10,
+      11,
+      12
+    ]
+  }
+}

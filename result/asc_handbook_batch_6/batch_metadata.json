@@ -1,0 +1,676 @@
+{
+  "model_requested": "mistral-ocr-latest",
+  "metadata_page_limit": 8,
+  "record_count": 6,
+  "failure_count": 0,
+  "records": [
+    {
+      "source_file": "《耐火材料的损毁及其抑制技术》作者：王诚训 等 .pdf",
+      "source_total_pages": 17,
+      "metadata_pages_processed": 8,
+      "metadata_source_pages": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8
+      ],
+      "form": {
+        "title": "耐火材料的损毁及其抑制技术",
+        "authors": [
+          "王诚训",
+          "陈晓荣",
+          "赵亮",
+          "刘芳",
+          "张义先",
+          "侯谨"
+        ],
+        "venue_or_publisher": "冶金工业出版社",
+        "document_type": "book",
+        "year": 2014,
+        "pages": "219",
+        "doi": null,
+        "abstract": "本书根据国内外最新研究成果和作者多年的研究成果编著而成，系统地阐述了耐火材料的损毁以及对损毁因素的控制，重点介绍耐火材料非连续损毁、熔渣对耐火材料熔解蚀损过程、高温气体对耐火材料的腐蚀以及耐火材料在高温减压下的挥发/氧化损耗等。其中，对耐火材料的非线形断裂和熔渣侵蚀对耐火材料熔解过程的影响进行了详尽的分析和讨论。同时，还探讨了对耐火材料诸损毁因素的控制，并为设计和开发新型耐火材料提出了合理建议。\n\n本书可供耐火材料及其相关专业的科研人员、工程技术人员阅读，也可供大专院校有关专业师生参考。",
+        "note": "第2版；ISBN 978-7-5024-6582-7"
+      },
+      "field_evidence": {
+        "title": {
+          "status": "verified_in_ocr",
+          "pages": [
+            1,
+            2,
+            3,
+            4
+          ]
+        },
+        "venue_or_publisher": {
+          "status": "verified_in_ocr",
+          "pages": [
+            1,
+            2,
+            3
+          ]
+        },
+        "year": {
+          "status": "verified_in_ocr",
+          "pages": [
+            2,
+            3,
+            5
+          ]
+        },
+        "pages": {
+          "status": "verified_in_ocr",
+          "pages": [
+            3
+          ]
+        },
+        "doi": {
+          "status": "empty_not_claimed",
+          "pages": []
+        },
+        "authors": {
+          "status": "verified_in_ocr",
+          "pages_by_author": {
+            "王诚训": [
+              1,
+              2,
+              3
+            ],
+            "陈晓荣": [
+              1,
+              2
+            ],
+            "赵亮": [
+              1,
+              2
+            ],
+            "刘芳": [
+              1,
+              2
+            ],
+            "张义先": [
+              1,
+              2
+            ],
+            "侯谨": [
+              1,
+              2
+            ]
+          }
+        },
+        "document_type": {
+          "status": "verified_in_ocr",
+          "pages": [
+            3
+          ]
+        },
+        "abstract": {
+          "status": "transcribed_from_printed_section",
+          "pages": [
+            3
+          ]
+        },
+        "note": {
+          "status": "verified_in_ocr",
+          "pages": [
+            1,
+            2,
+            3,
+            4,
+            5
+          ],
+          "isbn": "978-7-5024-6582-7",
+          "isbn_checksum_valid": true
+        }
+      },
+      "evidence_adjustments": [],
+      "corrections": [
+        {
+          "page": 1,
+          "field": "title",
+          "original": "而火材料的损毁及其抑制技术",
+          "corrected": "耐火材料的损毁及其抑制技术",
+          "similarity": 0.9231,
+          "reason": "Cover OCR heading differed by a near-match, while the canonical title was independently verified on at least two later pages."
+        }
+      ],
+      "average_page_confidence": 0.9707371156478628,
+      "review_status": "verified",
+      "review_notes": [],
+      "raw_response": "raw/001.json"
+    },
+    {
+      "source_file": "相图与耐火材料_(陈肇友)_(Z-Library).pdf",
+      "source_total_pages": 139,
+      "metadata_pages_processed": 8,
+      "metadata_source_pages": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8
+      ],
+      "form": {
+        "title": "相图与耐火材料 Phase Diagrams of Refractories",
+        "authors": [
+          "陈肇友"
+        ],
+        "venue_or_publisher": "冶金工业出版社 Metallurgical Industry Press",
+        "document_type": "book",
+        "year": 2014,
+        "pages": "128",
+        "doi": null,
+        "abstract": "相图在耐火材料生产、使用、研究、开发中都十分有用。书中介绍了相图的识图与用途。单元系有 SiO₂、Al₂O₃、ZrO₂、MgO、SiC、Si₃N₄；二元系有：MgO-FeO、Al₂O₃-Cr₂O₃、MgO-CaO、Na₂O-SiO₂、Al₂O₃-CaO、Al₂O₃-SiO₂、Al₂O₃-ZrO₂、CaO-ZrO₂、Fe-O、Al₂O₃-FeOₙ、MgO-Al₂O₃、MgO-Cr₂O₃、MgO-SiO₂、Fe-C 等；三元系有：MgO-Al₂O₃-SiO₂、MgO-CaO-SiO₂、MgO-CaO-ZrO₂、MgO-Al₂O₃-ZrO₂、CaO-Al₂O₃-SiO₂、Al₂O₃-ZrO₂-SiO₂、Al₂O₃-SiO₂-Na₂O 等，四元系如 MgO-CaO-Al₂O₃-SiO₂ 等；热力学参数图；三元交换体系如 SiAlON；含碳耐火材料；水盐系如铝酸钙与水玻璃等。\n\n本书对广大从事耐火材料及无机非金属与相关专业如冶金、水泥、玻璃、陶瓷、化工等方面的科技工作者与大专院校学生、研究生、教师在教学、理论结合实际上很有参考价值与实际用处。",
+        "note": "ISBN 978-7-5024-6707-4; 第1版第1次印刷"
+      },
+      "field_evidence": {
+        "title": {
+          "status": "verified_in_ocr",
+          "pages": [
+            1,
+            3
+          ]
+        },
+        "venue_or_publisher": {
+          "status": "verified_in_ocr",
+          "pages": [
+            1
+          ]
+        },
+        "year": {
+          "status": "verified_in_ocr",
+          "pages": [
+            3,
+            4,
+            7
+          ]
+        },
+        "pages": {
+          "status": "verified_in_ocr",
+          "pages": [
+            4
+          ]
+        },
+        "doi": {
+          "status": "empty_not_claimed",
+          "pages": []
+        },
+        "authors": {
+          "status": "verified_in_ocr",
+          "pages_by_author": {
+            "陈肇友": [
+              1,
+              3,
+              4,
+              5,
+              7
+            ]
+          }
+        },
+        "document_type": {
+          "status": "verified_in_ocr",
+          "pages": [
+            4
+          ]
+        },
+        "abstract": {
+          "status": "transcribed_from_printed_section",
+          "pages": [
+            4
+          ]
+        },
+        "note": {
+          "status": "verified_in_ocr",
+          "pages": [
+            4
+          ],
+          "isbn": "978-7-5024-6707-4",
+          "isbn_checksum_valid": true
+        }
+      },
+      "evidence_adjustments": [],
+      "corrections": [],
+      "average_page_confidence": 0.9599639461011947,
+      "review_status": "verified",
+      "review_notes": [],
+      "raw_response": "raw/002.json"
+    },
+    {
+      "source_file": "碱性不定形耐火材料 (王诚训、张义先k).pdf",
+      "source_total_pages": 156,
+      "metadata_pages_processed": 8,
+      "metadata_source_pages": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8
+      ],
+      "form": {
+        "title": "碱性不定形耐火材料",
+        "authors": [
+          "王诚训",
+          "张义先"
+        ],
+        "venue_or_publisher": "冶金工业出版社",
+        "document_type": "book",
+        "year": 2001,
+        "pages": "148",
+        "doi": null,
+        "abstract": "本书比较全面地阐述了碱性不定形耐火材料，其中包括碱性耐火喷补料、碱性投入型热态修补料、电炉熔池用碱性混合料和中间包用碱性耐火喷涂料的基本理论、材料设计、选料原则、结合方式和生产工艺，以及这些碱性不定形耐火材料的基本性能和应用理论。同时，对碱性耐火浇注料的最新研究成果也作了介绍。\n\n本书可供从事碱性不定形耐火材料科研、产品开发、生产与应用的技术人员阅读，也可供大专院校有关专业的师生参考。",
+        "note": "ISBN 7-5024-2662-0; 第1版第1次印刷"
+      },
+      "field_evidence": {
+        "title": {
+          "status": "verified_in_ocr",
+          "pages": [
+            3,
+            4,
+            5
+          ]
+        },
+        "venue_or_publisher": {
+          "status": "verified_in_ocr",
+          "pages": [
+            1,
+            2,
+            3
+          ]
+        },
+        "year": {
+          "status": "verified_in_ocr",
+          "pages": [
+            2,
+            3
+          ]
+        },
+        "pages": {
+          "status": "verified_in_ocr",
+          "pages": [
+            3
+          ]
+        },
+        "doi": {
+          "status": "empty_not_claimed",
+          "pages": []
+        },
+        "authors": {
+          "status": "verified_in_ocr",
+          "pages_by_author": {
+            "王诚训": [
+              1,
+              2,
+              3
+            ],
+            "张义先": [
+              1,
+              2,
+              3
+            ]
+          }
+        },
+        "document_type": {
+          "status": "verified_in_ocr",
+          "pages": [
+            3
+          ]
+        },
+        "abstract": {
+          "status": "transcribed_from_printed_section",
+          "pages": [
+            3
+          ]
+        },
+        "note": {
+          "status": "verified_in_ocr",
+          "pages": [
+            3
+          ],
+          "isbn": "7-5024-2662-0",
+          "isbn_checksum_valid": true
+        }
+      },
+      "evidence_adjustments": [],
+      "corrections": [],
+      "average_page_confidence": 0.9604269993558027,
+      "review_status": "verified",
+      "review_notes": [],
+      "raw_response": "raw/003.json"
+    },
+    {
+      "source_file": "钢铁工业用节能降耗耐火材料 (李庭寿等编).pdf",
+      "source_total_pages": 165,
+      "metadata_pages_processed": 8,
+      "metadata_source_pages": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8
+      ],
+      "form": {
+        "title": "钢铁工业用节能降耗耐火材料",
+        "authors": [
+          "李庭寿",
+          "冯改山",
+          "戴龙大"
+        ],
+        "venue_or_publisher": "冶金工业出版社",
+        "document_type": "book",
+        "year": 2000,
+        "pages": "155",
+        "doi": null,
+        "abstract": null,
+        "note": "本书为“九五”国家科技攻关专题研究报告修改完善而成。ISBN 7-5024-2498-9。"
+      },
+      "field_evidence": {
+        "title": {
+          "status": "verified_in_ocr",
+          "pages": [
+            2,
+            3,
+            5
+          ]
+        },
+        "venue_or_publisher": {
+          "status": "verified_in_ocr",
+          "pages": [
+            1,
+            2,
+            3
+          ]
+        },
+        "year": {
+          "status": "verified_in_ocr",
+          "pages": [
+            2,
+            3
+          ]
+        },
+        "pages": {
+          "status": "verified_in_ocr",
+          "pages": [
+            3
+          ]
+        },
+        "doi": {
+          "status": "empty_not_claimed",
+          "pages": []
+        },
+        "authors": {
+          "status": "verified_in_ocr",
+          "pages_by_author": {
+            "李庭寿": [
+              1,
+              2,
+              3,
+              5
+            ],
+            "冯改山": [
+              1,
+              2,
+              5
+            ],
+            "戴龙大": [
+              1,
+              2,
+              5
+            ]
+          }
+        },
+        "document_type": {
+          "status": "verified_in_ocr",
+          "pages": [
+            3
+          ]
+        },
+        "abstract": {
+          "status": "empty_not_claimed",
+          "pages": []
+        },
+        "note": {
+          "status": "verified_in_ocr",
+          "pages": [
+            3
+          ],
+          "isbn": "7-5024-2498-9",
+          "isbn_checksum_valid": true
+        }
+      },
+      "evidence_adjustments": [],
+      "corrections": [],
+      "average_page_confidence": 0.9456111758205722,
+      "review_status": "verified",
+      "review_notes": [],
+      "raw_response": "raw/004.json"
+    },
+    {
+      "source_file": "Monolithic Refractories - A Comprehensive Handbook.pdf",
+      "source_total_pages": 316,
+      "metadata_pages_processed": 8,
+      "metadata_source_pages": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8
+      ],
+      "form": {
+        "title": "Monolithic Refractories: A Comprehensive Handbook",
+        "authors": [
+          "Subrata Banerjee"
+        ],
+        "venue_or_publisher": "World Scientific Publishing Co. Pte. Ltd. and The American Ceramic Society",
+        "document_type": "book",
+        "year": 1998,
+        "pages": null,
+        "doi": null,
+        "abstract": null,
+        "note": "ISBN 9810231202. Co-published by World Scientific and The American Ceramic Society."
+      },
+      "field_evidence": {
+        "title": {
+          "status": "verified_in_ocr",
+          "pages": [
+            3,
+            4
+          ]
+        },
+        "venue_or_publisher": {
+          "status": "verified_in_ocr",
+          "pages": [
+            3,
+            4
+          ],
+          "pages_by_component": {
+            "World Scientific Publishing Co. Pte. Ltd.": [
+              4
+            ],
+            "The American Ceramic Society": [
+              3,
+              4
+            ]
+          }
+        },
+        "year": {
+          "status": "verified_in_ocr",
+          "pages": [
+            3,
+            4
+          ]
+        },
+        "pages": {
+          "status": "empty_not_claimed",
+          "pages": []
+        },
+        "doi": {
+          "status": "empty_not_claimed",
+          "pages": []
+        },
+        "authors": {
+          "status": "verified_in_ocr",
+          "pages_by_author": {
+            "Subrata Banerjee": [
+              3,
+              4
+            ]
+          }
+        },
+        "document_type": {
+          "status": "verified_in_ocr",
+          "pages": [
+            4
+          ]
+        },
+        "abstract": {
+          "status": "empty_not_claimed",
+          "pages": []
+        },
+        "note": {
+          "status": "verified_in_ocr",
+          "pages": [
+            4
+          ],
+          "isbn": "9810231202",
+          "isbn_checksum_valid": true
+        }
+      },
+      "evidence_adjustments": [
+        {
+          "field": "pages",
+          "removed_value": "416",
+          "reason": "Value was not found in the selected OCR evidence pages."
+        }
+      ],
+      "corrections": [],
+      "average_page_confidence": 0.9645188170017772,
+      "review_status": "verified",
+      "review_notes": [],
+      "raw_response": "raw/005.json"
+    },
+    {
+      "source_file": "Refractories Handbook (Mechanical Engineering (Marcell -- edited by Charles A_ Schacht -- Mechanical Engineering Marcell Dekker, 1, 2004 -- CRC Press e.pdf",
+      "source_total_pages": 517,
+      "metadata_pages_processed": 8,
+      "metadata_source_pages": [
+        1,
+        2,
+        3,
+        9,
+        10,
+        11,
+        12,
+        13
+      ],
+      "form": {
+        "title": "Refractories Handbook",
+        "authors": [
+          "Charles A. Schacht"
+        ],
+        "venue_or_publisher": "Marcel Dekker, Inc.",
+        "document_type": "book",
+        "year": 2004,
+        "pages": null,
+        "doi": null,
+        "abstract": null,
+        "note": "ISBN: 0-8247-5654-1. Edited by Charles A. Schacht."
+      },
+      "field_evidence": {
+        "title": {
+          "status": "verified_in_ocr",
+          "pages": [
+            1,
+            2,
+            9
+          ]
+        },
+        "venue_or_publisher": {
+          "status": "verified_in_ocr",
+          "pages": [
+            9,
+            10
+          ]
+        },
+        "year": {
+          "status": "verified_in_ocr",
+          "pages": [
+            10
+          ]
+        },
+        "pages": {
+          "status": "empty_not_claimed",
+          "pages": []
+        },
+        "doi": {
+          "status": "empty_not_claimed",
+          "pages": []
+        },
+        "authors": {
+          "status": "verified_in_ocr",
+          "pages_by_author": {
+            "Charles A. Schacht": [
+              1,
+              9,
+              12,
+              13
+            ]
+          }
+        },
+        "document_type": {
+          "status": "verified_in_ocr",
+          "pages": [
+            1,
+            3,
+            9,
+            10
+          ]
+        },
+        "abstract": {
+          "status": "empty_not_claimed",
+          "pages": []
+        },
+        "note": {
+          "status": "verified_in_ocr",
+          "pages": [
+            1,
+            9,
+            10,
+            12,
+            13
+          ],
+          "isbn": "0-8247-5654-1",
+          "isbn_checksum_valid": true
+        }
+      },
+      "evidence_adjustments": [
+        {
+          "field": "pages",
+          "removed_value": "400",
+          "reason": "Value was not found in the selected OCR evidence pages."
+        }
+      ],
+      "corrections": [],
+      "average_page_confidence": 0.9681603022200281,
+      "review_status": "verified",
+      "review_notes": [],
+      "raw_response": "raw/006.json"
+    }
+  ],
+  "failures": []
+}

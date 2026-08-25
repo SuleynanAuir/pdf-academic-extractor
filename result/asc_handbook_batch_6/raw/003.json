@@ -1,0 +1,175 @@
+{
+  "pages": [
+    {
+      "index": 0,
+      "markdown": "# 疫控 不定形\n## 而火成渝\n\n王诚训 张义先 编著\n\nJIANXING\nBUDINGXING\nNAIHUO\nCAILIAO\n\n冶金工业出版社",
+      "images": [],
+      "tables": [],
+      "hyperlinks": [],
+      "header": null,
+      "footer": null,
+      "dimensions": {
+        "dpi": 128,
+        "height": 1024,
+        "width": 710
+      },
+      "confidence_scores": {
+        "word_confidence_scores": [],
+        "average_page_confidence_score": 0.9165996873647319,
+        "minimum_page_confidence_score": 0.21895961566790134
+      },
+      "blocks": null
+    },
+    {
+      "index": 1,
+      "markdown": "# 藏惟不定形耐史材料\n\n王诚训 张义先 编著\n\n北京\n冶金工业出版社\n2001",
+      "images": [],
+      "tables": [],
+      "hyperlinks": [],
+      "header": null,
+      "footer": null,
+      "dimensions": {
+        "dpi": 128,
+        "height": 1024,
+        "width": 710
+      },
+      "confidence_scores": {
+        "word_confidence_scores": [],
+        "average_page_confidence_score": 0.9342782356225016,
+        "minimum_page_confidence_score": 0.39662476039893624
+      },
+      "blocks": null
+    },
+    {
+      "index": 2,
+      "markdown": "# 内容提要\n\n本书比较全面地阐述了碱性不定形耐火材料，其中包括碱性耐火喷补料、碱性投入型热态修补料、电炉熔池用碱性混合料和中间包用碱性耐火喷涂料的基本理论、材料设计、选料原则、结合方式和生产工艺，以及这些碱性不定形耐火材料的基本性能和应用理论。同时，对碱性耐火浇注料的最新研究成果也作了介绍。\n\n本书可供从事碱性不定形耐火材料科研、产品开发、生产与应用的技术人员阅读，也可供大专院校有关专业的师生参考。\n\n# 图书在版编目(CIP)数据\n\n碱性不定形耐火材料/王诚训，张义先编著．一北京：冶金工业出版社，2001.1\n\nISBN 7-5024-2662-0\n\nⅠ.碱… Ⅱ.①王…②张… Ⅲ.碱性耐火材料：不定形耐火材料 Ⅳ.TQ175.73\n\n中国版本图书馆 CIP 数据核字(2000)第 48945 号\n\n出版人 卿启云(北京沙滩嵩祝院北巷 39 号，邮编 100009)\n\n责任编辑 章秀珍 美术编辑 李 心 责任校对 卿文春 责任印制 李玉山\n\n北京梨园彩印厂印刷；冶金工业出版社发行；各地新华书店经销\n\n2001 年 1 月第 1 版，2001 年 1 月第 1 次印刷\n\n850mm×1168mm1/32;4.875 印张；130 千字；148 页；1—3000 册\n\n9.80 元\n\n冶金工业出版社发行部 电话：(010)64044283 传真：(010)64027893\n\n冶金书店 地址：北京东四西大街 46 号(100711) 电话：(010)65289081\n\n（本社图书如有印装质量问题，本社发行部负责退换）",
+      "images": [],
+      "tables": [],
+      "hyperlinks": [],
+      "header": null,
+      "footer": null,
+      "dimensions": {
+        "dpi": 128,
+        "height": 1024,
+        "width": 710
+      },
+      "confidence_scores": {
+        "word_confidence_scores": [],
+        "average_page_confidence_score": 0.9753830842689323,
+        "minimum_page_confidence_score": 0.35431618414157434
+      },
+      "blocks": null
+    },
+    {
+      "index": 3,
+      "markdown": "# 前 言\n\n不定形耐火材料具有生产工艺简单、施工效率高、适用范围广泛、系统节约能源、材料性能优良、能够任意造型、可机械化施工作业、施工体综合性能良好、使用效果好、消耗低等许多优点，因而其发展速度非常快，新品种不断出现，产量逐年增加。例如，工业先进国家不定形耐火材料的比例已经接近、甚至超过了定型耐火材料。\n\n在不定形耐火材料的发展过程中，以性能优良而且易于自动化操作的浇注料和喷补料的发展最快。\n\n不定形耐火材料的主要技术路线是精料精配，超微粉和添加剂的有效利用。其发展方向则是不断地向高纯度、低水化或无水化、多功能、高密度和高强度的方向发展。随之则推进了不定形耐火材料的质量不断提高，品种不断更新，应用范围不断扩大。\n\n不定形耐火材料的材质和品种的发展，与定型耐火材料相似，也是按中性、酸性氧化物（硅质、半硅质、硅酸铝质和锆英石质）→碱性氧化物（镁质、镁钙质、镁铝质和镁铬质）→氧化物与非氧化物（碳、碳化物、氮化物和耐火钢纤维等）复合材料的路线发展的。与此相对应，不定形耐火材料的应用领域也是由低、中温气氛炉向高温熔炼炉扩展；导致工业窑炉，特别是在冶金工业熔炼炉中的日常消耗性耐火材料中的大部分定形耐火材料被不定形耐火材料所取代。\n\n然而，不定形耐火材料中的碱性不定形耐火材料，除了碱性耐火喷补料和电炉熔池用碱性耐火混合料的开发时间较早、发展较快之外，其他的碱性不定形耐火材料起步时间却较晚，发展的历史较短，即处在研制和开发阶段之中。\n\n为了推动碱性不定形耐火材料的快速发展，作者以近年来所\n\nI",
+      "images": [],
+      "tables": [],
+      "hyperlinks": [],
+      "header": null,
+      "footer": null,
+      "dimensions": {
+        "dpi": 128,
+        "height": 1024,
+        "width": 710
+      },
+      "confidence_scores": {
+        "word_confidence_scores": [],
+        "average_page_confidence_score": 0.9829559732173833,
+        "minimum_page_confidence_score": 0.35760789194359954
+      },
+      "blocks": null
+    },
+    {
+      "index": 4,
+      "markdown": "进行的碱性不定形耐火材料研究工作的成果为重点，汇集了近十年来国内学者所进行碱性不定形耐火材料研究的科研成果；集碱性不定形耐火材料的品种研制、材料设计、施工方法和实际应用的实践经验；同时，也参考了许多国外资料编写了本书。\n\n本书主要阐述碱性不定形耐火材料中的碱性耐火喷补料、碱性投入型热态修补料、电炉熔池用碱性耐火混合料（包括直流电炉熔池用导电型碱性耐火混合料）、中间包用碱性耐火喷涂料的生产工艺、凝聚结合机理、高温物理化学变化、材料的基本性能和应用技术的最新研究成果。同时，也介绍了碱性耐火浇注料和碱性含碳浇注修补料的技术路线、选料依据、配制原则、超微粉的有效利用、外加剂的应用技术等。虽然，碱性捣打料及其预制件和高温碱性压注料等也属于碱性不定形耐火材料的范畴，但限于它们的性能和应用空间，本书没有涉及。\n\n本书的出版，如果能对碱性不定形耐火材料的进步有所帮助，对从事碱性不定形耐火材料的科研人员有所参考，对广大读者有所裨益，将是作者的最大欣慰。\n\n作 者\n\n2000年5月18日\n\nII",
+      "images": [],
+      "tables": [],
+      "hyperlinks": [],
+      "header": null,
+      "footer": null,
+      "dimensions": {
+        "dpi": 128,
+        "height": 1024,
+        "width": 710
+      },
+      "confidence_scores": {
+        "word_confidence_scores": [],
+        "average_page_confidence_score": 0.9776830323431643,
+        "minimum_page_confidence_score": 0.26367601174044214
+      },
+      "blocks": null
+    },
+    {
+      "index": 5,
+      "markdown": "# 目 录\n\n1 碱性耐火喷补料 ... 1\n\n1.1 施工装置 2\n1.2 碱性耐火喷补料及其优化 5\n\n12.1喷补料的流变学 6\n122喷补料的损毁 11\n123喷补料的主要原料 13\n12.4 颗粒大小及其分布 15\n125 结合剂及其组合 17\n12.6 优化配方举例 28\n\n1.3 火焰喷补料 ... 30\n\n13.1 火焰喷补设备与施工技术 32\n132 火焰喷补料应具备的条件 33\n13.3 火焰喷补料的性能 36\n134 火焰喷补料的应用 39\n\n2 投入型热态修补料 ... 41\n\n2.1 投入型热态修补料的由来及其发展 41\n2.2 投入型热态修补料的特征 43\n2.3 典型投入型热态修补料 44\n\n2.3.1 磷酸盐结合的投入型热态修补料 45\n2.3.2 沥青结合的投入型热态修补料 45\n2.3.3 树脂结合的投入型热态修补料 52\n2.3.4 沥青/树脂结合的投入型热态修补料 53\n\n2.4 碳结合热态修补料的硬化机理 54\n2.5 硬化时间的确定 56\n\n3 电炉熔池用碱性耐火混合料 ... 59\n\n3.1 \\(\\mathrm{MgO - CaO - FeO_n}\\) 质混合料 59\n3.1 1 化学成分控制 60\n\nⅢ",
+      "images": [],
+      "tables": [],
+      "hyperlinks": [],
+      "header": null,
+      "footer": null,
+      "dimensions": {
+        "dpi": 128,
+        "height": 1024,
+        "width": 710
+      },
+      "confidence_scores": {
+        "word_confidence_scores": [],
+        "average_page_confidence_score": 0.9727646361096666,
+        "minimum_page_confidence_score": 0.3108363777806287
+      },
+      "blocks": null
+    },
+    {
+      "index": 6,
+      "markdown": "312 化学-矿物组成和相变化 64\n313 生产工艺 74\n314 筑村施工 76\n315 热态修补 77\n3.16 使用效果 78\n\n3.2 MgO质混合料 79\n3.3 导电型耐火混合料 80\n\n3.3.1 MgO-C质混合料 80\n3.32 MgO-Fe质混合料 84\n\n# 4 中间包用碱性耐火喷涂料 88\n\n4.1 碱性耐火喷涂料应具备的条件 88\n4.2 碱性耐火喷涂料的设计 90\n\n4.2.1 材质选择 90\n4.2.2 成分控制 92\n4.2.3 结合剂和添加剂 98\n4.2.4 颗粒级配 100\n\n4.3 \\(\\mathrm{MgO / MgO - CaO}\\) 质耐火喷涂料的性能 101\n4.4喷涂施工 105\n4.5 喷涂层的烘烤 107\n4.6 结合机理 108\n4.7 冶金效果 109\n\n471 二次氧化 109\n472 吸氢 111\n473 减少钢中夹杂 112\n\n# 5 碱性耐火浇注料的研究 114\n\n5.1 MgO-复合尖晶石质浇注料 114\n\n511 抗水化开裂 114\n512 抗侵蚀性与抗渗透性 116\n513 粒状 \\(\\mathrm{Al}_{2}\\mathrm{O}_{3}\\) 对抗蚀性能的影响 117\n514 \\(\\mathrm{Cr_2O_3}\\) 成分对抗渣性能的影响 119\n515 典型 \\(\\mathrm{MgO}\\) -复合尖晶石质浇注料的设计 120\n\n5.2 MgO-CaO质耐火浇注料 123\n\nIV",
+      "images": [],
+      "tables": [],
+      "hyperlinks": [],
+      "header": null,
+      "footer": null,
+      "dimensions": {
+        "dpi": 128,
+        "height": 1024,
+        "width": 710
+      },
+      "confidence_scores": {
+        "word_confidence_scores": [],
+        "average_page_confidence_score": 0.9675034604654711,
+        "minimum_page_confidence_score": 0.25634484640875216
+      },
+      "blocks": null
+    },
+    {
+      "index": 7,
+      "markdown": "521 提高 \\(\\mathrm{MgO - CaO}\\) 砂的抗水化能力 123\n522 耐侵蚀性和抗渗透性 128\n523 抗剥落试验 130\n524 典型 \\(\\mathrm{MgO - CaO}\\) 质浇注料的设计 132\n\n5.3 uFSIO₂ 结合的 MgO-C 质浇注料 ... 133\n\n531 碳源的选择 138\n53.2 \\(\\mathrm{MgO - C}\\) 质浇注料的性能 139\n\n5.4 树脂结合的 MgO-C 质浇注料 ... 142\n\n参考文献 ... 147\n\nV",
+      "images": [],
+      "tables": [],
+      "hyperlinks": [],
+      "header": null,
+      "footer": null,
+      "dimensions": {
+        "dpi": 128,
+        "height": 1024,
+        "width": 710
+      },
+      "confidence_scores": {
+        "word_confidence_scores": [],
+        "average_page_confidence_score": 0.9562478854545701,
+        "minimum_page_confidence_score": 0.24014554652558326
+      },
+      "blocks": null
+    }
+  ],
+  "model": "mistral-ocr-latest",
+  "document_annotation": "{\"title\": \"碱性不定形耐火材料\", \"authors\": [\"王诚训\", \"张义先\"], \"venue_or_publisher\": \"冶金工业出版社\", \"document_type\": \"book\", \"year\": 2001, \"pages\": \"148\", \"doi\": null, \"abstract\": \"本书比较全面地阐述了碱性不定形耐火材料，其中包括碱性耐火喷补料、碱性投入型热态修补料、电炉熔池用碱性混合料和中间包用碱性耐火喷涂料的基本理论、材料设计、选料原则、结合方式和生产工艺，以及这些碱性不定形耐火材料的基本性能和应用理论。同时，对碱性耐火浇注料的最新研究成果也作了介绍。本书可供从事碱性不定形耐火材料科研、产品开发、生产与应用的技术人员阅读，也可供大专院校有关专业的师生参考。\", \"note\": \"ISBN 7-5024-2662-0; 第1版第1次印刷\"}",
+  "usage_info": {
+    "pages_processed": 8,
+    "doc_size_bytes": 424345
+  },
+  "_batch_source": {
+    "source_file": "碱性不定形耐火材料 (王诚训、张义先k).pdf",
+    "source_total_pages": 156,
+    "metadata_pages_processed": 8
+  }
+}
